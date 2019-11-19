@@ -12,7 +12,7 @@ Hardware security: (2019.11.12)(Fly Dragon)
   USING KALI LINUX TO ATTACK METASPLOIT
   --------------------------
   Penetrstion Test (PT)
-  > nmap
+  > COMMAND 'nmap': find the open service
     -> nmap.org
   > metasploit
     -> https://zh.wikipedia.org/wiki/Metasploit
