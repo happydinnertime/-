@@ -14,6 +14,7 @@ Hardware security: (2019.11.12)(Fly Dragon)
   Penetrstion Test (PT)
   > COMMAND 'nmap': find the open service
     -> nmap.org
+    -> nmap.org/book
   > metasploit
     -> https://zh.wikipedia.org/wiki/Metasploit
   > msfconsole
