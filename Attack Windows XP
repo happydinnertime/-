@@ -1,6 +1,7 @@
 ATTACK INTO WINDOWS XP
   1. tools: windows XP
             Kali linux
+            > msfconsole
   
   2. steps:
      > 'ipconfig' find the ip of windows XP (in windows XP)
