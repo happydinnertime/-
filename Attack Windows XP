@@ -1,4 +1,13 @@
-
+ATTACK INTO WINDOWS XP
+  1. tools: windows XP
+            Kali linux
+  
+  2. steps:
+     > 'ipconfig' find the ip of windows XP (in windows XP)
+     > ping the IP (kali)
+     > 'nmap' search all IP opening in windows
+     > nmap -O 'ip'
+     
 
 
 
