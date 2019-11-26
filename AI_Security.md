@@ -1,9 +1,13 @@
-Happy Hacking High Github: 
+# Happy Hacking High Github: 
+```
+```
   https://github.com/HappyHackingHigh/AI4high
- 
+```
+```
 ======================================================
-Outline:
-
+# Outline:
+```
+```
 AI4high:從資料科學到機器學習
 
 A.資料分析(Data Analytics)
@@ -18,6 +22,8 @@ B.機器學習(Machine Learning)
 C.人工智慧與資訊安全
   C1:垃圾簡訊的偵測(分類)
   C2:殭屍網路的偵測
+```
+```
 --------------------------------------------------------
 
 
