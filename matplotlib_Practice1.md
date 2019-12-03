@@ -11,12 +11,3 @@ Jupyter notebook:
 
 %matplotlib notebook
 ```
-```
-%matplotlib inline
-import matplotlib.pyplot as plt
-import numpy as np
-import pandas as pd
-data = np.arange(10)
-data
-plt.plot(data)
-```
