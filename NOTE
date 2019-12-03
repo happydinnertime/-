@@ -51,16 +51,31 @@ Julia is going to replace Python
 SciPy.org
 
 ===========================================================
-使用 sympy 執行 Symbolc Methmatics(符號計算)
+使用 sympy 執行 Symbolc Methmatics(符號計算) (2019.12.3)
 numeric computation(數值計算) => Numpy
 Symbolic mathematics(符號計算) => Sympy
 
 Symbolic mathematics (https://github.com/drvinceknight?tab=repositories)
-> 找官方網站 (https://www.sympy.org/en/index.html)
+> 學習記得找官方網站 (https://www.sympy.org/en/index.html)
 
-np.linalg (linear algebra)
+1. np.linalg (linear algebra)
+2. seaborn (去 A14high 資料視覺化的利器)
+3. matasplotlib 繪圖 (去 A14high 資料視覺化)
+   #universial funtion
+      
+   
+作業: 去 A14high 的 Datascience 找 readme
+      -> 使用 python 學 Linear algebra
+      -> 使用 sympy 執行 Symbolic mathematics (符號計算)
 
-作業: https://github.com/drvinceknight/Python-Mathematics-Handbook
+#描述統計學: 平均值、標準差...
+
+kaggle -> AI contest
+諾貝爾得主: 最好的學習要用圖形
+
+Pandas: (Go to A14high 的 datascience 找 Pandas_Practice)
+
+
 
 
 
