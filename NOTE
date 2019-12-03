@@ -51,7 +51,16 @@ Julia is going to replace Python
 SciPy.org
 
 ===========================================================
+使用 sympy 執行 Symbolc Methmatics(符號計算)
+numeric computation(數值計算) => Numpy
+Symbolic mathematics(符號計算) => Sympy
 
+Symbolic mathematics (https://github.com/drvinceknight?tab=repositories)
+> 找官方網站 (https://www.sympy.org/en/index.html)
+
+np.linalg (linear algebra)
+
+作業: https://github.com/drvinceknight/Python-Mathematics-Handbook
 
 
 
