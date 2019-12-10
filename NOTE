@@ -77,6 +77,31 @@ Pandas: (https://github.com/HappyHackingHigh/AI4high/blob/master/DataScience/3_P
 -> Series (用字典建, 一個 key 一個 value)
 -> Dataframe
 
+==========================================================================
+描述統計學，資料分析 (2019.12.10)
+到 AI4high 的 data 找描述統計學
+
+(https://github.com/PacktPublishing/Learning-Pandas-Second-Edition)
+
+8.3 描述統計學
+omh.describe() 統計分析:
+count => 
+mean => 平均值
+std => 
+min => minimum
+25% => 第一四分位距
+
+box diagram 箱型圖
+> 找 mataplotlib box diagram
+
+
+基本觀念:
+> 平均值
+
+# tltooft 諾貝爾得主
+------------------------------------
+Machine Learing:
+簡報: https://github.com/HappyHackingHigh/AI4high/blob/master/ML/2_1_Learning1_%E6%A9%9F%E5%99%A8%E7%9A%84%E5%AD%B8%E7%BF%92_Gradient%20Descent%20.pptx
 
 
 
