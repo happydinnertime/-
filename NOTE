@@ -127,7 +127,7 @@ Deep learning's book:
    => 心參數 = 舊參數 - 學習力 X 
    
 跑: (https://github.com/zotroneneis/machine_learning_basics/blob/master/linear_regression.ipynb)
--> 線性回歸 (SL
+-> 線性回歸 (SLR)
 
 python 理的 pass 代表甚麼都不做
 
