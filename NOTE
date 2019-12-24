@@ -101,9 +101,35 @@ box diagram 箱型圖
 # tltooft 諾貝爾得主
 ------------------------------------
 Machine Learing:
-簡報: https://github.com/HappyHackingHigh/AI4high/blob/master/ML/2_1_Learning1_%E6%A9%9F%E5%99%A8%E7%9A%84%E5%AD%B8%E7%BF%92_Gradient%20Descent%20.pptx
+簡報: (https://github.com/HappyHackingHigh/AI4high/blob/master/ML/2_1_Learning1_%E6%A9%9F%E5%99%A8%E7%9A%84%E5%AD%B8%E7%BF%92_Gradient%20Descent%20.pptx)
 
+============================================================================
+AL's conception (2019.12.24)
+ powerpoint: (https://github.com/MyDearGreatTeacher/uTaipei2019)
+  
+mechine learing basic:
+ PPT: (https://github.com/MyDearGreatTeacher/uTaipei2019/blob/master/PPT/2_1_Learning1_%E6%A9%9F%E5%99%A8%E7%9A%84%E5%AD%B8%E7%BF%92_Gradient%20Descent%20.pptx)  
+-> 隨機梯度下降法 (SGD)
 
+微積分:
+-> 微分代表斜率
+f(x)=c (常數) => 算出來為 0
+f(x)=Cx  => 算出來為 C
+
+Deep learning's book:
+(http://www.deeplearningbook.org/)
+
+梯度下降法 (Gradient Descent):
+-> 為一種演算法: Gradient Descent 
+-> 偏微分 follow the slope
+-> 透過不斷更新參數，使 G(x) 達到最小值
+   => 注意: 學習力不能太大，通常取 0.1
+   => 心參數 = 舊參數 - 學習力 X 
+   
+跑: (https://github.com/zotroneneis/machine_learning_basics/blob/master/linear_regression.ipynb)
+-> 線性回歸 (SL
+
+python 理的 pass 代表甚麼都不做
 
 
 
