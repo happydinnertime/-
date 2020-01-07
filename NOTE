@@ -129,7 +129,28 @@ Deep learning's book:
 跑: (https://github.com/zotroneneis/machine_learning_basics/blob/master/linear_regression.ipynb)
 -> 線性回歸 (SLR)
 
-python 理的 pass 代表甚麼都不做
+python 裡的 pass 代表甚麼都不做
 
+==============================================================================
+WEB SECURITY (2020.1.7): 
+tool: KALI Linux
 
+Docker 屬於輕量及虛擬技術 (docker hub, WATCH OUT HACKERS)(download the one more people download)
+<<<<<<<<<<<<<<<<<<<<<
+EX:
+   docker   ------(二層)
+   Kali  ---------(一層)(Or Ubuntu MATE)
+   後，從docker hub 抓 (pull) 東西 (取得 image) 到 docker 上面跑 -> container
+   
+how to install docker on KALI: see the photo 1/7
+                 >>>>>>>>>>>>>>>>>>>>>>>
+方法: 
+在 docker 建一個有漏洞的網站，打他!
 
+ping -c 4 www.google;ls   (; 表示會先跑完前面的指令再跑 ; 後面的)
+
+(https://zeroday.hitcon.org/) 資安通報系統
+
+SQLMap 工具 (回去學習)
+
+Java script -> 動態改變網站
