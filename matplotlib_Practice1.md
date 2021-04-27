@@ -5,6 +5,7 @@
 
 此單元用Jupyter notebook進行可互動式的繪圖
 Jupyter notebook:
+縮址：https://reurl.cc/nnGoj2
 (https://nbviewer.jupyter.org/github/LearnXu/pydata-notebook/blob/master/Chapter-09/9.1%20A%20Brief%20matplotlib%20API%20Primer%EF%BC%88%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84matplotlib%20API%E5%85%A5%E9%97%A8%EF%BC%89.ipynb)
 ----------------------------------------------------------------------------
 執行下面的語句，就可直接在Notebook裡繪圖:
